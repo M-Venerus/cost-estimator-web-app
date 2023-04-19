@@ -1,1 +1,1 @@
-Webpage feature app to calculate cost of a made up service. Only HTML and CSS. Non-functional.
+Webpage feature app to calculate cost of a made up service. Made with only HTML and CSS.
